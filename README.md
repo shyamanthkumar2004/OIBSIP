@@ -1,12 +1,27 @@
 # OIBSIP
-This a java program of task 2 number guessing game
-this game is is designed with the help of java and swings also used in this program
-This game consists of instructions page in which contains instructions of game
-this game have 3 chances to guess the computer generated number
-firstly you have to click on generate random number
-and now click on check number and enter number in dialog box
-now you check and it gives hints to guess the number
-on first guess you get 100 points
-on 2nd guess you get 50 points
-on 3rd guess you get 10 points
-finally the score will be projected on screen
+
+
+
+
+This a java program of TASK 2 number guessing game
+● this game is is designed with the help of java and swings also used in this program
+● This game consists of instructions page in which contains instructions of game
+● this game have 3 chances to guess the computer generated number
+● firstly you have to click on generate random number
+● and now click on check number and enter number in dialog box
+● now you check and it gives hints to guess the number
+● on first guess you get 100 points
+● on 2nd guess you get 50 points
+● on 3rd guess you get 10 points
+● finally the score will be projected on screen
+
+
+
+
+This a java program of TASK 3 ATM Interface
+◘ Firstly we need to create ATM PIN 
+◘ after in 2nd interface we need enter required correct details
+◘ After correct details entered the orginal atm interface will be opened 
+◘ In new interface you will get required buttons withdraw,deposit,transfer,balance enquiry,history,exit
+◘ Firstly it contains 500 rupees
+◘ if exit button clicked it will open to first interface to create pin
